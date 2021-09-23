@@ -5,7 +5,7 @@ Screen yang tersedia:
 - Detail Transaksi
 
 Fitur yang tersedia:
-- Search Transaksi
+- Search Transaksi berdasarkan Nama Penerima
 - Urutkan berdasarkan Nama A-Z
 - Urutkan berdasarkan Nama Z-A
 - Urutkan berdasarkan Tanggal Terbaru
