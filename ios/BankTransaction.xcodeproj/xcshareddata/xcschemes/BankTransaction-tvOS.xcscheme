@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "BankTransaction-tvOS.app"
-               BlueprintName = "BankTransaction-tvOS"
-               ReferencedContainer = "container:BankTransaction.xcodeproj">
+               BuildableName = "contactApp-tvOS.app"
+               BlueprintName = "contactApp-tvOS"
+               ReferencedContainer = "container:contactApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "BankTransaction-tvOSTests.xctest"
-               BlueprintName = "BankTransaction-tvOSTests"
-               ReferencedContainer = "container:BankTransaction.xcodeproj">
+               BuildableName = "contactApp-tvOSTests.xctest"
+               BlueprintName = "contactApp-tvOSTests"
+               ReferencedContainer = "container:contactApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "BankTransaction-tvOS.app"
-            BlueprintName = "BankTransaction-tvOS"
-            ReferencedContainer = "container:BankTransaction.xcodeproj">
+            BuildableName = "contactApp-tvOS.app"
+            BlueprintName = "contactApp-tvOS"
+            ReferencedContainer = "container:contactApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "BankTransaction-tvOS.app"
-            BlueprintName = "BankTransaction-tvOS"
-            ReferencedContainer = "container:BankTransaction.xcodeproj">
+            BuildableName = "contactApp-tvOS.app"
+            BlueprintName = "contactApp-tvOS"
+            ReferencedContainer = "container:contactApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

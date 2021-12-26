@@ -1,5 +1,5 @@
 {
-  "name": "banktransaction",
+  "name": "contactapp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -21,7 +21,7 @@
     "react-native-flash-message": "^0.2.0",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-modal": "^13.0.0",
-    "react-native-reanimated": "^2.2.2",
+    "react-native-reanimated": "2.3.0-alpha.2",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.7.2",
     "react-native-vector-icons": "^8.1.0",

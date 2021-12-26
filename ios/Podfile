@@ -44,8 +44,8 @@ def flipper_post_install(installer)
   end
 end
 
-target 'BankTransaction' do
-  # Pods for BankTransaction
+target 'contactApp' do
+  # Pods for contactApp
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -81,7 +81,7 @@ target 'BankTransaction' do
 
   pod 'RNCClipboard', :path => '../node_modules/@react-native-community/clipboard'
 
-  target 'BankTransactionTests' do
+  target 'contactAppTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -98,10 +98,10 @@ target 'BankTransaction' do
   end
 end
 
-target 'BankTransaction-tvOS' do
-  # Pods for BankTransaction-tvOS
+target 'contactApp-tvOS' do
+  # Pods for contactApp-tvOS
 
-  target 'BankTransaction-tvOSTests' do
+  target 'contactApp-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

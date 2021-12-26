@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.banktransaction"
+        applicationId "com.contactapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
